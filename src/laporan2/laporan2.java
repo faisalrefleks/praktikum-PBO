@@ -10,6 +10,10 @@ public class laporan2 {
 	static long l;
 	static short sh;
 	static String stri;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 	static char c = 0xffff;
 	static byte b = 0x7f;
 	static short s = 0x7fff;
@@ -27,11 +31,21 @@ public class laporan2 {
 	static double d1 = 1d;
 	static double d2 = 1D;
 	static double d3 = 47e47d;
+<<<<<<< HEAD
 	static String \u0073\u0074\u0072 = "\u004Aa\u0076a";
+=======
+
+	static String \u0073\u0074\u0072 = "\u004Aa\u0076a";
+	
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		i += 5;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 		if (i == 3) {
 			if (bool = true) {
 				System.out.println("bool=" + bool);
@@ -64,6 +78,10 @@ public class laporan2 {
 			System.out.println("double d1=" + d1);
 			System.out.println("double d2=" + d2);
 			System.out.println("double d3=" + d3);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 			System.out.println("S\u00ED se\u00F1or");
 			System.out.println(str);
 		}
@@ -72,6 +90,7 @@ public class laporan2 {
 	public static void objek() {
 		Boolean refBoolean = new Boolean(true);
 		boolean bool = refBoolean.booleanValue();
+<<<<<<< HEAD
 		Byte refByte = new Byte((byte) 123);
 		byte b = refByte.byteValue();
 		Character refChar = new Character('x');
@@ -86,6 +105,30 @@ public class laporan2 {
 		float f = refFloat.floatValue();
 		Double refDouble = new Double(12.3D);
 		double d = refDouble.doubleValue();
+=======
+
+		Byte refByte = new Byte((byte) 123);
+		byte b = refByte.byteValue();
+
+		Character refChar = new Character('x');
+		char c = refChar.charValue();
+
+		Short refShort = new Short((short) 123);
+		short s = refShort.shortValue();
+
+		Integer refInt = new Integer(123);
+		int i = refInt.intValue();
+
+		Long refLong = new Long(123L);
+		long l = refLong.longValue();
+
+		Float refFloat = new Float(12.3F);
+		float f = refFloat.floatValue();
+
+		Double refDouble = new Double(12.3D);
+		double d = refDouble.doubleValue();
+
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 		System.out.println("Boolean=" + bool);
 		System.out.println("byte =" + b);
 		System.out.println("Character=" + c);
@@ -94,5 +137,12 @@ public class laporan2 {
 		System.out.println("long=" + l);
 		System.out.println("float=" + f);
 		System.out.println("double=" + d);
+<<<<<<< HEAD
 	}
 }
+=======
+
+	}
+
+}
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2

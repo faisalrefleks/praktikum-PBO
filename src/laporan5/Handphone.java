@@ -12,4 +12,8 @@ public class Handphone {
 			System.out.println("objek mobil belum diinstansiasi");
 		}
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2

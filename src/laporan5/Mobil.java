@@ -24,5 +24,15 @@ public class Mobil {
 		objekMobil.JUMLAH_MOBIL = 2;
 		Mobil.tambahMobil();
 		System.out.println(Mobil.JUMLAH_MOBIL);
+<<<<<<< HEAD
 	}
+=======
+		// test();
+	}
+	// public static void test()
+	// {
+	// Mobil objekMobil = new Mobil();
+	// Mobil objekMobil2 = new Mobil();
+	// }
+>>>>>>> 93dc04052d48956a031f1097719ea212a2c35ce2
 }
